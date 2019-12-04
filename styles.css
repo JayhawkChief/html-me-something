@@ -1,0 +1,151 @@
+header {
+	padding: 50px;
+    height: 160px;
+}
+
+body {
+    font-family: 75% georgia, sans-serif;
+	color: #555753; 
+    background-image: url("images/htmlcss.png"); 
+    background-position: center; 
+    background-color: #f9f8f6;
+    margin: 0px; 
+    line-height: 1.4em;
+}
+
+p {
+    padding: 20px;
+    margin-top: 0; 
+    text-align: center;
+    color: white; 
+    background-color: black; 
+}
+
+div {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px; 
+}
+
+h1 {
+    text-align: center;
+    color: gold; 
+}
+
+h2 {
+    font: italic normal 1.4em georgia, sans-serif;
+	letter-spacing: 1px; 
+	margin-bottom: 0; 
+    color: #7D775C;
+}
+
+figure {
+    display: block;
+    margin: 5px; 
+    text-align: center;
+}
+
+#a {
+    font-weight: bold;
+}
+
+#a:link {
+    color: hotpink; 
+}
+
+#a:visited {
+    color: gold; 
+}
+
+#a:hover {
+    color: green;
+}
+
+#a:active {
+    color: blue; 
+}
+
+.coding {
+    width: 940px; 
+    margin: 20px auto 20px auto; 
+    border: 2px solid #000000; 
+    background-color: #ffffff; 
+    text-align: center;
+    color: black; 
+}
+
+.sports {
+    width: 940px; 
+    margin: 20px auto 20px auto; 
+    border: 2px solid #000000; 
+    background-color: blue; 
+    color: white; 
+    text-align: center;
+}
+
+#movies {
+    width: 940px; 
+    margin: 20px auto 20px auto; 
+    border: 2px solid #000000; 
+    background-color: #f10909; 
+    color: gold; 
+    text-align: center;
+}
+
+#videogames {
+    width: 940px; 
+    margin: 20px auto 20px auto; 
+    border: 2px solid #000000; 
+    background-color: orange; 
+    color: blue; 
+    text-align: center;
+}
+
+.books {
+    width: 940px; 
+    margin: 20px auto 20px auto; 
+    border: 2px solid #000000; 
+    background-color: teal;
+    color: blue; 
+    text-align: center;
+}
+
+.gym {
+    width: 940px; 
+    margin: 20px auto 20px auto; 
+    border: 2px solid #000000; 
+    background-color: blue; 
+    color: crimson; 
+    text-align: center;
+}
+
+.poker {
+    width: 940px; 
+    margin: 20px auto 20px auto; 
+    border: 2px solid #000000; 
+    background-color: red; 
+    color: black; 
+    text-align: center;
+}
+
+.beer {
+    width: 940px; 
+    margin: 20px auto 20px auto; 
+    border: 2px solid #000000; 
+    background-color: purple;
+    color: yellow; 
+    text-align: center;
+}
+
+
+footer {
+    text-align: center;
+    border: 10px solid blue;
+    margin: 10px auto 10px auto;
+    padding: 20px; 
+    font-weight: bold;  
+    color: white; 
+    background-color: black; 
+}
+
